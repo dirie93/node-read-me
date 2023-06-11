@@ -1,5 +1,15 @@
 {
+  "name": "node-readME-generator",
+  "version": "1.0.0",
+  "description": "A node.js readME generator",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mdirie",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.7"
+    "inquirer": "^6.3.1"
   }
 }
